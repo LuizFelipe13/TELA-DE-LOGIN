@@ -57,7 +57,7 @@ function App() {
               value={password}
               onChange={(e) => setPassword(e.target.value)}
               className="shadow appearance-none border rounded-md w-full py-2 px-3 text-gray-700 mb-3 leading-tight focus:outline-none focus:ring-2 focus:ring-blue-500"
-              placeholder="******************"
+              placeholder="Digite sua senha"
               required
             />
           </div>
